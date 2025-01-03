@@ -9,14 +9,14 @@ O jogo do número secreto tem o objetivo de brincar com os amigos para ver quem 
 <br><br>
 
 
-* [Status do Projeto](#status-do-Projeto)<br><br>
+* **Status do Projeto**<br><br>
     ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)<br><br>
-* [Funcionalidades](#funcionalidades-e-demonstração-da-aplicação)<br><br>
+* **Funcionalidades**<br>
    - Funcionalidade 1: descrição da funcionalidade 1<br>
    - Funcionalidade 2: descrição da funcionalidade 2<br>
    - Funcionalidade 3: descrição da funcionalidade 3<br><br>
 
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
+* **Tecnologias utilizadas**
    - HTML5
    - CSS
    - JavaScript
